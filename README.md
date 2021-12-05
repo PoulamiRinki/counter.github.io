@@ -21,8 +21,7 @@
                         </div> 
                     </div> 
                 </div> 
-                <script>
-                  .project-6-page-wrapper{
+     .project-6-page-wrapper{
      background-color: rgb(56, 23, 4);
       display: flex; 
       justify-content: center;
@@ -72,7 +71,8 @@
                                   .count-btns:hover{ 
                                       background-color: rgb(133, 70, 42); 
                                     }
-                  var counterPlaceHolder = document.getElementById("counter-placeholder");
+<script>
+var counterPlaceHolder = document.getElementById("counter-placeholder");
 var btnIncrement = document.getElementById("btn-increment");
 var btnDecrement = document.getElementById("btn-decrement");
 var number = 0;
