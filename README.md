@@ -99,11 +99,7 @@ btnDecrement.addEventListener("click", function(){
     number--; 
     counterPlaceHolder.innerHTML = number; 
     counterPlaceHolder.style.color = changeColor(number);
-});
-
-    
-                  
-
-                </script>
-                </body>
-                </html>
+  });                
+ </script>
+ </body>
+ </html>
